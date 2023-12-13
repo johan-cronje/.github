@@ -26,13 +26,13 @@ Infrastructure as Code demo using Terraform that launches a Python FastApi appli
 
 ## Open Source projects
 
-* For a widely used TFT LCD for the Arduino platform, a **C++** driver library: [TFT_22_ILI9225](https://github.com/Nkawu/TFT_22_ILI9225)
+* For a widely used TFT LCD for the Arduino platform, a **C++** driver library: [TFT_22_ILI9225](https://github.com/Nkawu/TFT_22_ILI9225) and [Wiki](https://github.com/Nkawu/TFT_22_ILI9225/wiki)
 <img width="480" src="https://github.com/johan-cronje/.github/assets/1527620/a70b01bd-ee9c-449e-b50b-161f47ae2f52">
 
-* For a BLE espresso scale, **MicroPython** firmware for an ESP32 microcontroller: [DIY Smart Coffee and Espresso Scale](https://github.com/Nkawu/coffee-scale-firmware)
+* For a BLE espresso scale, **MicroPython** firmware for an ESP32 microcontroller: [DIY Smart Coffee and Espresso Scale](https://github.com/Nkawu/coffee-scale-firmware) and [Wiki](https://github.com/Nkawu/coffee-scale-firmware/wiki)
 <img width="220" src="https://github.com/johan-cronje/.github/assets/1527620/f4206a3a-9b56-45b4-b94d-60b05e012fb7">
 
-* For a DIY Hauptwerk Virtual Pipe Organ project, **C** firmware for a Teensy 3.2 microcontroller and **Eagle CAD** PCB design files for the Organ Power Supply, Pedal, Shift Register & MIDI Merge Modules: [Virtual_Pipe_Organ](https://github.com/Nkawu/Virtual_Pipe_Organ)
+* For a DIY Hauptwerk Virtual Pipe Organ project, **C** firmware for a Teensy 3.2 microcontroller and **Eagle CAD** PCB design files for the Organ Power Supply, Pedal, Shift Register & MIDI Merge Modules: [Virtual_Pipe_Organ](https://github.com/Nkawu/Virtual_Pipe_Organ) and project page on [Hackaday](https://hackaday.io/project/19077-virtual-pipe-organ)
 <img width="320" alt="image" src="https://github.com/johan-cronje/.github/assets/1527620/2932ce15-43e9-4fe9-8b0f-2578861a90af">
 
 * For the defunct **MakerBot Replicator 1** 3D printer, GitHub pages documentation : [makerbot_replicator_1_info](https://nkawu.github.io/makerbot_replicator_1_info/)
