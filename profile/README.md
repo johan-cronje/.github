@@ -18,7 +18,7 @@ This Python implementation presents a straightforward quote REST API for an imag
 ### [perl-demo](https://github.com/johan-cronje/perl-demo)
 This is a compact object-oriented Perl system designed to analyze an Apache web server access log, presenting diverse statistics derived from a MaxMind GeoIP lookup.
 
-### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
+### fastapi-ecs-demo <!-- [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo) -->
 > [!NOTE]
 > This one is a work in progress
 
