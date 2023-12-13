@@ -1,28 +1,28 @@
 # Johan Cronje
 ### Software Engineer / DevOps
-- Experienced developer in several industries, mostly web backend, enjoy creating REST APIs
-- DevOps experience, especially on the developer experience / platform side
-- I mostly work in individual contributor roles, often as team lead & mentoring less experienced developers
-- Python is currently favorite language, but slowly starting to integrate Golang into my arsenal. I've also used Perl, PHP, C, C++ and many more. Not picky about languages, I can pick up anything fast. Prefer to avoid Ruby, java, C# & .Net environments, but I can be convinced to change my mind.
-- DevOps tools Terraform, Packer, Jenkins, GitLab, Ansible, Artifactory, etc
-- Multi cloud experience with AWS / Azure / Google Cloud
-- In AWS most of my experience in EC2, ECS, EKS services in addition to the typical services (S3, CloudWatch, SES, IAM, etc)
-- In Azure Virtual Machines & Google Compute Engine and the supporting services
+- I am a seasoned developer with a background in multiple industries, primarily focusing on web backend development. I take pleasure in crafting REST APIs.
+- Proficient in DevOps, particularly adept at enhancing the developer experience and optimizing platform functionality
+- I predominantly function in roles as an individual contributor, frequently taking on responsibilities as a team lead and providing mentorship to less experienced developers
+- Python is currently my favorite language, although I'm gradually incorporating Golang into my skill set. I have experience with a variety of languages such as Perl, PHP, C, C++, and more. I'm not particular about languages and can quickly adapt to new ones. While I lean towards avoiding Ruby, Java, C#, and .NET environments, I'm open to persuasion and may reconsider my preferences.
+- Utilizing a suite of DevOps tools including Terraform, Packer, Jenkins, GitLab, Ansible, Artifactory, and more
+- Extensive experience in managing multi-cloud environments, encompassing AWS, Azure, and Google Cloud
+- Within AWS, my expertise primarily revolves around EC2, ECS, and EKS services, complemented by proficiency in standard services like S3, CloudWatch, SES, IAM, and more
+- Within Azure, my focus lies on Virtual Machines, while in Google Cloud, I specialize in Google Compute Engine, alongside their respective supporting services
 
 ## Source Code Project Examples
-The sample code public repositories in this account should give you an idea of my coding style in various languages
+You can get insights into my coding style across different languages by exploring the following public repositories containing sample code:
 
 ### [python-demo](https://github.com/johan-cronje/python-demo)
-This is a simple implementation in Python of a quote REST API for a fictional insurance company. Originally created using **Flask**, the likely choice for this project would be **FastApi** now.
+This Python implementation presents a straightforward quote REST API for an imaginary insurance company, initially developed with Flask. However, the preferred framework for this project is likely to be FastAPI now.
 
 ### [perl-demo](https://github.com/johan-cronje/perl-demo)
-A small OO-style Perl system that processes an Apache web server access log and displays various stats based on a Maxmind geo IP lookup
+This is a compact object-oriented Perl system designed to analyze an Apache web server access log, presenting diverse statistics derived from a MaxMind GeoIP lookup.
 
 ### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
 > [!NOTE]
 > This one is a work in progress
 
-Infrastructure as Code demo using Terraform that launches a Python FastApi application in AWS on ECS
+Demonstration of Infrastructure as Code employing Terraform, orchestrating the deployment of a Python FastAPI application on AWS ECS
 
 ## Open Source projects
 
@@ -39,4 +39,4 @@ Infrastructure as Code demo using Terraform that launches a Python FastApi appli
 <img width="280" alt="image" src="https://github.com/johan-cronje/.github/assets/1527620/8489bd6b-7d01-484c-8c73-19258d3a481e">
 
 ## Other
-I'm an avid 3D designer & printer enthusiast, **Autodesk Fusion360** is my tool of choice for design. Here is a collection of my mostly bicycle, espresso or 3D printing related gadgets: [3D Models](https://www.printables.com/@Simbungu/models)
+Passionate about 3D design and printing, I favor Autodesk Fusion 360 for my creative endeavors. Explore my collection, predominantly featuring gadgets related to bicycles, espresso, and 3D printing: [3D Models](https://www.printables.com/@Simbungu/models)
