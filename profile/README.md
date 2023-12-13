@@ -26,17 +26,20 @@ Demonstration of Infrastructure as Code employing Terraform, orchestrating the d
 
 ## Open Source projects
 
-* For a widely used TFT LCD for the Arduino platform, a **C++** driver library: [TFT_22_ILI9225](https://github.com/Nkawu/TFT_22_ILI9225) and [Wiki](https://github.com/Nkawu/TFT_22_ILI9225/wiki)
-<img width="480" src="https://github.com/johan-cronje/.github/assets/1527620/a70b01bd-ee9c-449e-b50b-161f47ae2f52">
-
-* For a BLE espresso scale, **MicroPython** firmware for an ESP32 microcontroller: [DIY Smart Coffee and Espresso Scale](https://github.com/Nkawu/coffee-scale-firmware) and [Wiki](https://github.com/Nkawu/coffee-scale-firmware/wiki)
-<img width="220" src="https://github.com/johan-cronje/.github/assets/1527620/f4206a3a-9b56-45b4-b94d-60b05e012fb7">
-
-* For a DIY Hauptwerk Virtual Pipe Organ project, **C** firmware for a Teensy 3.2 microcontroller and **Eagle CAD** PCB design files for the Organ Power Supply, Pedal, Shift Register & MIDI Merge Modules: [Virtual_Pipe_Organ](https://github.com/Nkawu/Virtual_Pipe_Organ) and project page on [Hackaday](https://hackaday.io/project/19077-virtual-pipe-organ)
-<img width="320" alt="image" src="https://github.com/johan-cronje/.github/assets/1527620/2932ce15-43e9-4fe9-8b0f-2578861a90af">
-
-* For the defunct **MakerBot Replicator 1** 3D printer, GitHub pages documentation : [makerbot_replicator_1_info](https://nkawu.github.io/makerbot_replicator_1_info/)
-<img width="280" alt="image" src="https://github.com/johan-cronje/.github/assets/1527620/8489bd6b-7d01-484c-8c73-19258d3a481e">
+<table>
+<tr>
+    <td align="center"><p>For a widely used TFT LCD for the Arduino platform, a <b>C++</b>b> driver library: <a href="https://github.com/Nkawu/TFT_22_ILI9225">TFT_22_ILI9225</a> and <a href="https://github.com/Nkawu/TFT_22_ILI9225/wiki">Wiki</a></p> 
+<img width="480" src="https://github.com/johan-cronje/.github/assets/1527620/a70b01bd-ee9c-449e-b50b-161f47ae2f52"></td>
+    <td align="center"><p>For a BLE espresso scale, <b>MicroPython</b> firmware for an ESP32 microcontroller: <a href="https://github.com/Nkawu/coffee-scale-firmware">DIY Smart Coffee and Espresso Scale</a> and <a href="https://github.com/Nkawu/coffee-scale-firmware/wiki">Wiki</a></p> 
+<img width="220" src="https://github.com/johan-cronje/.github/assets/1527620/f4206a3a-9b56-45b4-b94d-60b05e012fb7"></td>
+</tr>
+<tr>
+    <td align="center"><p>For a DIY Hauptwerk Virtual Pipe Organ project, <b>C</b> firmware for a Teensy 3.2 microcontroller and <b>Eagle CAD</b> PCB design files for the Organ Power Supply, Pedal, Shift Register & MIDI Merge Modules: <a href="https://github.com/Nkawu/Virtual_Pipe_Organ">Virtual_Pipe_Organ</a> and project page on <a href="https://hackaday.io/project/19077-virtual-pipe-organ">Hackaday</a></p> 
+<img width="320" alt="image" src="https://github.com/johan-cronje/.github/assets/1527620/2932ce15-43e9-4fe9-8b0f-2578861a90af"></td>
+    <td align="center"><p>For the defunct <b>MakerBot Replicator 1</b> 3D printer, GitHub pages documentation : <a href="https://nkawu.github.io/makerbot_replicator_1_info/">makerbot_replicator_1_info</a></p> 
+<img width="280" alt="image" src="https://github.com/johan-cronje/.github/assets/1527620/8489bd6b-7d01-484c-8c73-19258d3a481e"></td>
+</tr>
+</table>
 
 ## Other
 Passionate about 3D design and printing, I favor Autodesk Fusion 360 for my creative endeavors. Explore my collection, predominantly featuring gadgets related to bicycles, espresso, and 3D printing: [3D Models](https://www.printables.com/@Simbungu/models)
