@@ -2,12 +2,12 @@
 ### Software Engineer / DevOps
 - Experienced developer in several industries, mostly web backend, enjoy creating REST APIs
 - DevOps experience, especially on the developer experience / platform side
+- I mostly work in individual contributor roles, often as team lead & mentoring less experienced developers
 - Python is currently favorite language, but slowly starting to integrate Golang into my arsenal. I've also used Perl, PHP, C, C++ and many more. Not picky about languages, I can pick up anything fast. Prefer to avoid Ruby, java, C# & .Net environments, but I can be convinced to change my mind.
 - DevOps tools Terraform, Packer, Jenkins, GitLab, Ansible, Artifactory, etc
 - Multi cloud experience with AWS / Azure / Google Cloud
-- In AWS most of my experience in EC2, ECS, EKS services in addition to the normal stuff (S3, CloudWatch, SES, IAM, etc)
-- In Azure & Google Cloud mostly the EC2 equivalent (i.e. virtual machines) and the supporting services
-- I mostly work in individual contributor roles, often as team lead & mentoring less experienced developers
+- In AWS most of my experience in EC2, ECS, EKS services in addition to the typical services (S3, CloudWatch, SES, IAM, etc)
+- In Azure Virtual Machines & Google Compute Engine and the supporting services
 
 ## Source Code Project Examples
 The sample code public repositories in this account should give you an idea of my coding style in various languages
