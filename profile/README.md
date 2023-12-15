@@ -13,14 +13,13 @@
 You can get insights into my coding style across different languages by exploring the following public repositories containing sample code:
 
 ### [python-demo](https://github.com/johan-cronje/python-demo)
-This Python implementation presents a straightforward quote REST API for an imaginary insurance company, initially developed with Flask. However, the preferred framework for this project is likely to be FastAPI now.
-
-### [perl-demo](https://github.com/johan-cronje/perl-demo)
-This is a compact object-oriented Perl system designed to analyze an Apache web server access log, presenting diverse statistics derived from a MaxMind GeoIP lookup.
+This is a demo in Python of a simple REST API for a fictional insurance company, implementing a policy quote backend. Although developed with Flask, the preferred framework for this project is likely to be FastAPI now.
 
 ### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
-
 Demonstration of Infrastructure as Code using standard Terraform resources with no third party modules, to deploy a Python FastAPI API application on AWS ECS
+
+### [perl-demo](https://github.com/johan-cronje/perl-demo)
+Example of an object-oriented Perl system designed to analyze an Apache web server access log, producing various statistics derived from a MaxMind GeoIP lookup.
 
 ## Open Source projects
 
