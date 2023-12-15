@@ -26,7 +26,7 @@ Demonstration of Infrastructure as Code employing Terraform, orchestrating the d
 
 <table>
 <tr>
-    <td align="center"><p>For a widely used TFT LCD for the Arduino platform, a <b>C++</b>b> driver library: <a href="https://github.com/Nkawu/TFT_22_ILI9225">TFT_22_ILI9225</a> and <a href="https://github.com/Nkawu/TFT_22_ILI9225/wiki">Wiki</a></p> 
+    <td align="center"><p>For a widely used TFT LCD for the Arduino platform, a <b>C++</b> driver library: <a href="https://github.com/Nkawu/TFT_22_ILI9225">TFT_22_ILI9225</a> and <a href="https://github.com/Nkawu/TFT_22_ILI9225/wiki">Wiki</a></p> 
 <img width="480" src="https://github.com/johan-cronje/.github/assets/1527620/a70b01bd-ee9c-449e-b50b-161f47ae2f52"></td>
     <td align="center"><p>For a BLE espresso scale, <b>MicroPython</b> firmware for an ESP32 microcontroller: <a href="https://github.com/Nkawu/coffee-scale-firmware">DIY Smart Coffee and Espresso Scale</a> and <a href="https://github.com/Nkawu/coffee-scale-firmware/wiki">Wiki</a></p> 
 <img width="220" src="https://github.com/johan-cronje/.github/assets/1527620/f4206a3a-9b56-45b4-b94d-60b05e012fb7"></td>
