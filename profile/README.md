@@ -20,7 +20,7 @@ This is a compact object-oriented Perl system designed to analyze an Apache web 
 
 ### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
 
-Demonstration of Infrastructure as Code employing Terraform, orchestrating the deployment of a Python FastAPI API application on AWS ECS
+Demonstration of Infrastructure as Code using standard Terraform resources with no third party modules, to deploy a Python FastAPI API application on AWS ECS
 
 ## Open Source projects
 
