@@ -18,11 +18,9 @@ This Python implementation presents a straightforward quote REST API for an imag
 ### [perl-demo](https://github.com/johan-cronje/perl-demo)
 This is a compact object-oriented Perl system designed to analyze an Apache web server access log, presenting diverse statistics derived from a MaxMind GeoIP lookup.
 
-### fastapi-ecs-demo <!-- [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo) -->
-> [!NOTE]
-> This one is a work in progress
+### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
 
-Demonstration of Infrastructure as Code employing Terraform, orchestrating the deployment of a Python FastAPI application on AWS ECS
+Demonstration of Infrastructure as Code employing Terraform, orchestrating the deployment of a Python FastAPI API application on AWS ECS
 
 ## Open Source projects
 
