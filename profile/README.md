@@ -15,6 +15,9 @@ You can get insights into my coding style across different languages by explorin
 ### [python-demo](https://github.com/johan-cronje/python-demo)
 This is a demo in Python of a simple REST API for a fictional insurance company, implementing a policy quote backend. Although developed with Flask, the preferred framework for this project is likely to be FastAPI now.
 
+### [fastapi-k8s-demo](https://github.com/johan-cronje/fastapi-k8s-demo)
+A simple demonstration of running a Python FastAPI application in Kubernetes. This example uses [K3d](https://k3d.io/) and requires Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) to be installed
+
 ### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
 Demonstration of Infrastructure as Code using standard Terraform resources with no third party modules, to deploy a Python FastAPI API application on AWS ECS
 
