@@ -18,6 +18,9 @@ This is a demo in Python of a simple REST API for a fictional insurance company,
 ### [fastapi-k8s-demo](https://github.com/johan-cronje/fastapi-k8s-demo)
 A simple demonstration of running a Python FastAPI application in Kubernetes. This example uses [K3d](https://k3d.io/) and requires Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) to be installed
 
+### [terraform-k8s-demo](https://github.com/johan-cronje/terraform-k8s-demo)
+Example of how to deploy a Kubernetes cluster using IaC with Terraform on three Cloud providers. Requires various utilities to be installed in order to be deployed.
+
 ### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
 Demonstration of Infrastructure as Code using standard Terraform resources with no third party modules, to deploy a Python FastAPI API application on AWS ECS
 
