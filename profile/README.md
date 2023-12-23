@@ -16,13 +16,13 @@ You can get insights into my coding style across different languages by explorin
 Basic REST API written in Python for a fictional insurance company, implementing a policy quote backend. Originally developed using Flask, the preferred framework for this project is likely to be FastAPI now.
 
 ### [fastapi-k8s-demo](https://github.com/johan-cronje/fastapi-k8s-demo)
-Example how to create a Kubernetes cluster and deploy a Python FastAPI workload to the cluster. This example uses **K3d** to deploy a Kubernetes cluster in Docker. Requires [K3d](https://k3d.io/), Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) to be installed in order to deploy.
+Create a Kubernetes cluster and deploy a Python FastAPI workload to the cluster. Uses **K3d** to deploy a Kubernetes cluster in Docker. Requires [K3d](https://k3d.io/), Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) to be installed in order to deploy.
 
 ### [terraform-k8s-demo](https://github.com/johan-cronje/terraform-k8s-demo)
-Example how to deploy a Kubernetes cluster using Infrastructure as Code on three Cloud providers with Terraform. Requires [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the CLI for each Cloud platform to be installed in order to be deployed.
+Deploy a Kubernetes cluster using Infrastructure as Code to AWS, Azure & Google Cloud with Terraform. Requires [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the CLI for each Cloud platform to be installed in order to be deployed.
 
 ### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
-Demonstration of Infrastructure as Code using standard Terraform resources with no third party modules, to deploy a Python FastAPI API workload on AWS ECS. Requires [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) to be installed in order to be deployed.
+Deploy a Python FastAPI API workload on AWS ECS using native Terraform resources (with no modules). Requires [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) to be installed in order to be deployed.
 
 ### [perl-demo](https://github.com/johan-cronje/perl-demo)
 Example of an object-oriented Perl system designed to analyze an Apache web server access log, producing various statistics derived from a MaxMind GeoIP lookup.
