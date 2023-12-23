@@ -13,7 +13,7 @@
 You can get insights into my coding style across different languages by exploring the following public repositories containing sample code:
 
 ### [python-demo](https://github.com/johan-cronje/python-demo)
-Basic REST API written in Perl for a fictional insurance company, implementing a policy quote backend. Originally developed using Flask, the preferred framework for this project is likely to be FastAPI now.
+Basic REST API written in Python for a fictional insurance company, implementing a policy quote backend. Originally developed using Flask, the preferred framework for this project is likely to be FastAPI now.
 
 ### [fastapi-k8s-demo](https://github.com/johan-cronje/fastapi-k8s-demo)
 Example how to create a Kubernetes cluster and deploy a Python FastAPI workload to the cluster. This example uses **K3d** to deploy a Kubernetes cluster in Docker. Requires [K3d](https://k3d.io/), Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) to be installed in order to deploy.
