@@ -6,8 +6,8 @@
 - Python is currently my favorite language, although I'm gradually incorporating Golang into my skill set. I have experience with a variety of languages such as Perl, PHP, C, C++, and more. I'm not particular about languages and can quickly adapt to new ones. While I lean towards avoiding Ruby, Java, C#, and .NET environments, I'm open to persuasion and may reconsider my preferences.
 - Utilizing a suite of DevOps tools including Terraform, Packer, Jenkins, GitLab, Ansible, Artifactory, and more
 - Extensive experience in managing multi-cloud environments, encompassing AWS, Azure, and Google Cloud
-- Within AWS, my expertise primarily revolves around EC2, ECS, and EKS services, complemented by proficiency in standard services like S3, CloudWatch, SES, IAM, and more
-- Within Azure, my focus lies on Virtual Machines, while in Google Cloud, I specialize in Google Compute Engine, alongside their respective supporting services
+- In AWS, my expertise primarily revolves around EC2, ECS, and EKS services, complemented by proficiency in standard services like S3, CloudWatch, SES, IAM, and more
+- With Azure, I've used mostly Virtual Machines, while in Google Cloud, Google Compute Engine, alongside their respective supporting services
 
 ## Source Code Project Examples
 You can get insights into my coding style across different languages by exploring the following public repositories containing sample code:
