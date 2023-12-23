@@ -9,23 +9,16 @@
 - In AWS, my expertise primarily revolves around EC2, ECS, and EKS services, complemented by proficiency in standard services like S3, CloudWatch, SES, IAM, and more
 - With Azure, I've used mostly Virtual Machines, while in Google Cloud, Google Compute Engine, alongside their respective supporting services
 
-## Source Code Project Examples
+## Software & DevOps projects
 You can get insights into my coding style across different languages by exploring the following public repositories containing sample code:
 
-### [python-demo](https://github.com/johan-cronje/python-demo)
-Basic REST API written in Python for a fictional insurance company, implementing a policy quote backend. Originally developed using Flask, the preferred framework for this project is likely to be FastAPI now.
-
-### [fastapi-k8s-demo](https://github.com/johan-cronje/fastapi-k8s-demo)
-Create a Kubernetes cluster and deploy a Python FastAPI workload to the cluster. Uses **K3d** to deploy a Kubernetes cluster in Docker. Requires [K3d](https://k3d.io/), Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) to be installed in order to deploy.
-
-### [terraform-k8s-demo](https://github.com/johan-cronje/terraform-k8s-demo)
-Deploy a Kubernetes cluster using Infrastructure as Code to AWS, Azure & Google Cloud with Terraform. Requires [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the CLI for each Cloud platform to be installed in order to be deployed.
-
-### [fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)
-Deploy a Python FastAPI API workload on AWS ECS using native Terraform resources (with no modules). Requires [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) to be installed in order to be deployed.
-
-### [perl-demo](https://github.com/johan-cronje/perl-demo)
-Example of an object-oriented Perl system designed to analyze an Apache web server access log, producing various statistics derived from a MaxMind GeoIP lookup.
+| Repo | Description | Requirements |
+| --- | --- | --- |
+| **[python-demo](https://github.com/johan-cronje/python-demo)** | Basic REST API written in Python for a fictional insurance company, implementing a policy quote backend. Originally developed using Flask, the preferred framework for this project is likely to be FastAPI now. | Python |
+| **[fastapi-k8s-demo](https://github.com/johan-cronje/fastapi-k8s-demo)** | Create a Kubernetes cluster and deploy a Python FastAPI workload to the cluster. Uses **K3d** to deploy a Kubernetes cluster in Docker. | [K3d](https://k3d.io/), Docker & [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) |
+| **[terraform-k8s-demo](https://github.com/johan-cronje/terraform-k8s-demo)** | Deploy a Kubernetes cluster using Infrastructure as Code to AWS, Azure & Google Cloud with Terraform. | [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the CLI for each Cloud platform |
+| **[fastapi-ecs-demo](https://github.com/johan-cronje/fastapi-ecs-demo)** | Deploy a Python FastAPI API workload on AWS ECS using native Terraform resources (with no modules). | [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli), [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and the [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) |
+| **[perl-demo](https://github.com/johan-cronje/perl-demo)** | Example of an object-oriented Perl system designed to analyze an Apache web server access log, producing various statistics derived from a MaxMind GeoIP lookup. | Perl |
 
 ## Open Source projects
 
@@ -45,4 +38,4 @@ Example of an object-oriented Perl system designed to analyze an Apache web serv
 </table>
 
 ## Other
-Passionate about 3D design and printing, I favor Autodesk Fusion 360 for my creative endeavors. Explore my collection, predominantly featuring gadgets related to bicycles, espresso, and 3D printing: [3D Models](https://www.printables.com/@Simbungu/models)
+Passionate about 3D design and printing, I use Autodesk Fusion 360 for my creative endeavors. Explore some of my designs, predominantly featuring gadgets related to bicycles, espresso, and 3D printing: [3D Models](https://www.printables.com/@Simbungu/models)
