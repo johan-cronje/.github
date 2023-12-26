@@ -1,10 +1,10 @@
 # Johan Cronje
 ### Software Engineer / DevOps
-- I am a seasoned developer with a background in multiple industries, primarily focusing on web backend development. I take pleasure in crafting REST APIs.
-- Proficient in DevOps, particularly adept at enhancing the developer experience and optimizing platform functionality
+- I am a seasoned developer with a background in multiple industries, primarily focusing on web backend development. I take pleasure in creating REST APIs.
+- Proficient in DevOps, adept at enhancing the developer experience and optimizing platform functionality
 - I predominantly function in roles as an individual contributor, frequently taking on responsibilities as a team lead and providing mentorship to less experienced developers
-- Python is currently my favorite language, although I'm gradually incorporating Golang into my skill set. I have experience with a variety of languages such as Perl, PHP, C, C++, and more. I'm not particular about languages and can quickly adapt to new ones. While I lean towards avoiding Ruby, Java, C#, and .NET environments, I'm open to persuasion and may reconsider my preferences.
-- Utilizing a suite of DevOps tools including Terraform, Packer, Jenkins, GitLab, Ansible, Artifactory, and more
+- Python is currently my favorite language, although I'm gradually incorporating Golang into my skill set. I have experience with a variety of languages such as Perl, PHP, C, C++, and more. I'm not particular about languages and can quickly adapt to new ones.
+- Experienced in the use of multiple DevOps tools including Terraform, Packer, Jenkins, GitLab, Ansible, Artifactory, and more
 - Extensive experience in managing multi-cloud environments, encompassing AWS, Azure, and Google Cloud
 - In AWS, my expertise primarily revolves around EC2, ECS, and EKS services, complemented by proficiency in standard services like S3, CloudWatch, SES, IAM, and more
 - With Azure, I've used mostly Virtual Machines, while in Google Cloud, Google Compute Engine, alongside their respective supporting services
