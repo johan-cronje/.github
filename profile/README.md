@@ -1,6 +1,6 @@
 # Johan Cronje
 ### Software Engineer / DevOps
-- I am a seasoned developer with a background in multiple industries, primarily focusing on web backend development. I take pleasure in creating REST APIs.
+- I am a seasoned developer with a background in multiple industries, primarily focusing on web backend development. In particular, I enjoy creating REST APIs.
 - Proficient in DevOps, adept at enhancing the developer experience and optimizing platform functionality
 - I predominantly function in roles as an individual contributor, frequently taking on responsibilities as a team lead and providing mentorship to less experienced developers
 - Python is currently my favorite language, although I'm gradually incorporating Golang into my skill set. I have experience with a variety of languages such as Perl, PHP, C, C++, and more. I'm not particular about languages and can quickly adapt to new ones.
